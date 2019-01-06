@@ -1,0 +1,1 @@
+# webextensions-vsc-dev-example
