@@ -8,3 +8,9 @@
 ## Setup
 * [Enable add-on debugging](https://developer.mozilla.org/en-US/docs/Tools/about:debugging)
 * Start Firefox with [`--start-debugger-server`](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_Desktop#Firefox_37_onwards) option
+
+## Debugging
+### Breakpoints
+Breakpoints will not be hit in `popup.js` unless the code has been loaded at least once and the addon is then reloaded in `about:debugging`.
+
+See https://github.com/hbenl/vscode-firefox-debug#troubleshooting
