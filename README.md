@@ -2,7 +2,7 @@
 ## Requirements
 * [Visual Studio Code](https://code.visualstudio.com/Download)
 * [Debugger for Firefox (VSCode extension)](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-firefox-debug)
-* [Firefox 63+](https://www.mozilla.org/en-GB/firefox/new/)
+* [Firefox](https://www.mozilla.org/en-GB/firefox/new/) or [Firefox Developer Edition](https://www.mozilla.org/en-GB/firefox/developer/) 63+
 (Will possibly work in 48+ but I haven't tested)
 
 ## Setup
