@@ -19,5 +19,5 @@ when running `Launch addon` from VSCode debugger.
 
 ### Working examples
 Based on this template
-* [borderify](https://github.com/XuluWarrior/webextensions-vsc-dev-example/tree/bordify)
+* [borderify](https://github.com/XuluWarrior/webextensions-vsc-dev-example/tree/borderify)
 * [chill-out](https://github.com/XuluWarrior/webextensions-vsc-dev-example/tree/chill-out)
