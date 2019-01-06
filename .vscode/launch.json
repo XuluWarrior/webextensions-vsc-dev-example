@@ -31,7 +31,10 @@
             "reAttach": true,
             "addonType": "webExtension",
             "addonPath": "${workspaceFolder}/addon",
-            "sourceMaps": "server" // Doesn't seem to work with "client" sourceMaps
+            "sourceMaps": "server", // Doesn't seem to work with "client" sourceMaps
+            "pathMappings": [
+                { "url": "webpack:///", "path": "${workspaceFolder}/"}
+            ]
         }
     ]
 }
