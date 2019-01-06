@@ -30,7 +30,8 @@
             "request": "launch",
             "reAttach": true,
             "addonType": "webExtension",
-            "addonPath": "${workspaceFolder}/addon"
+            "addonPath": "${workspaceFolder}/addon",
+            "sourceMaps": "server" // Doesn't seem to work with "client" sourceMaps
         }
     ]
 }
